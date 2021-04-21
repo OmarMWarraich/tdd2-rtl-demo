@@ -10,7 +10,7 @@
     "start": "webpack serve --mode development --open --hot --inline",
     "build": "webpack --mode production",
     "check-types": "tsc",
-    "test": "jest --config jest.config.js"
+    "test": "jest"
   },
   "devDependencies": {
     "@babel/core": "^7.12.3",
